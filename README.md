@@ -16,7 +16,7 @@ Secondary Languages
 
 ![ OCaml ](https://img.shields.io/badge/Ocaml-EC6813?style=for-the-badge&logo=Tesla)
 ![ C ](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=Tesla)
-![ Java ](https://img.shields.io/badge/Java?style=for-the-badge&logo=)
+![ Java ](https://img.shields.io/badge/Java?style=for-the-badge&logo=Tesla)
 ![ SQL ](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=Tesla)
 
 Machine Learning
