@@ -17,19 +17,19 @@ Secondary Languages
 ![ OCaml ](https://img.shields.io/badge/Ocaml-EC6813?style=for-the-badge&logo=ocaml)
 ![ C ](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
 ![ Java ](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![ SQL ](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql-lite)
+![ SQL ](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
 Machine Learning
 
 ![ Numpy ](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-![ TensorFlow ](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensor-flow)
-![ Pytorch ](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![ TensorFlow ](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![ Pytorch ](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=py-torch)
 ![ SK-Learn ](https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikitlearn)
 
 Operating Systems
 
 ![ Windows ](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
-![ Ubuntu ](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
+![ Ubuntu ](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 Tools
 
