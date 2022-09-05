@@ -14,27 +14,27 @@ Main Languages
 
 Secondary Languages
 
-![ OCaml ](https://img.shields.io/badge/Ocaml-EC6813?style=for-the-badge&logo=Tesla)
-![ C ](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=Tesla)
+![ OCaml ](https://img.shields.io/badge/Ocaml-EC6813?style=for-the-badge&logo=ocaml)
+![ C ](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
 ![ Java ](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![ SQL ](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=Tesla)
+![ SQL ](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sql-lite)
 
 Machine Learning
 
-![ Numpy ](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=Tesla)
-![ TensorFlow ](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=Tesla)
-![ Pytorch ](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=Tesla)
-![ SK-Learn ](https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=Tesla)
+![ Numpy ](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
+![ TensorFlow ](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensor-flow)
+![ Pytorch ](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch)
+![ SK-Learn ](https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikitlearn)
 
 Operating Systems
 
-![ Windows ](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=Tesla)
-![ Ubuntu ](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Tesla)
+![ Windows ](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
+![ Ubuntu ](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
 
 Tools
 
-![ VSCode ](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=Tesla)
-![ LaTeX ](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=Tesla)
+![ VSCode ](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![ LaTeX ](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex)
 
 
 
