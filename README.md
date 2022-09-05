@@ -24,7 +24,7 @@ Machine Learning
 ![ Numpy ](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
 ![ TensorFlow ](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![ Pytorch ](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
-![ SK-Learn ](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=)
+![ SK-Learn ](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=white&label=)
 
 Operating Systems
 
