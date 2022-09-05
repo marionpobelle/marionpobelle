@@ -1,16 +1,15 @@
-### Hi there 👋
+### ABOUT ME
 
-<!--
-**marionpobelle/marionpobelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Marion Pobelle and I'm an aspiring game developer.
+- ⭐ I'm passionate about video games and Machime Learning !
+- ✨ My favorite languages are C++, C# and Python.
 
-Here are some ideas to get you started:
+### LANGUAGES AND TOOLS
+![ alt text ](https://img.shields.io/badge/Tesla-text-CC0000?style=for-the-badge7logo=Tesla)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GITHUB STATS
+
+
+### CURRENT WORK
+I’m currently working on Space Meow, a TOP/DOWN shooter developed with Unity.
+- 🌱 I’m learning C# as it is the first time I use Unity.
