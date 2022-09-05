@@ -5,7 +5,7 @@ My name is Marion Pobelle and I'm an aspiring game developer.
 - ✨ My favorite languages are C++, C# and Python.
 
 ### LANGUAGES AND TOOLS
-![ alt text ](https://img.shields.io/badge/Tesla-text-CC0000?style=for-the-badge&logo=Tesla)
+![ alt text ](https://img.shields.io/badge/Tesla-tesss-CC0000?style=for-the-badge&logo=Tesla)
 
 ### GITHUB STATS
 
