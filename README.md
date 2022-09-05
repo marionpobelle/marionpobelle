@@ -8,7 +8,7 @@ My name is Marion Pobelle and I'm an aspiring game developer.
 
 Main Languages
 
-![ Python ](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python)
+![ Python ](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python)
 ![ C++ ](https://img.shields.io/badge/C++-CC0000?style=for-the-badge&logo=C++)
 ![ C# ](https://img.shields.io/badge/CSharp-00599C?style=for-the-badge&logo=Tesla)
 
@@ -16,7 +16,7 @@ Secondary Languages
 
 ![ OCaml ](https://img.shields.io/badge/Ocaml-EC6813?style=for-the-badge&logo=Tesla)
 ![ C ](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=Tesla)
-![ Java ](https://img.shields.io/badge/-Java-?style=for-the-badge&logo=Tesla)
+![ Java ](https://img.shields.io/badge/Java?style=for-the-badge&logo=Tesla)
 ![ SQL ](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=Tesla)
 
 Machine Learning
