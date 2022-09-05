@@ -45,3 +45,9 @@ Tools
 ### CURRENT WORK
 I’m currently working on Space Meow, a TOP/DOWN shooter developed with Unity.
 - 🌱 I’m learning C# as it is the first time I use Unity.
+
+### CONTACT ME
+
+![ Linkedin ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+![ Mail ](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
