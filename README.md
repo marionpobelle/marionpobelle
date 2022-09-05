@@ -14,8 +14,8 @@ Main Languages
 
 Secondary Languages
 
-![ OCaml ](https://img.shields.io/badge/Ocaml-EC6813?style=for-the-badge&logo=ocaml)
-![ C ](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
+![ OCaml ](https://img.shields.io/static/v1?style=for-the-badge&message=OCaml&color=EC6813&logo=OCaml&logoColor=FFFFFF&label=)
+![ C ](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
 ![ Java ](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![ SQL ](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
@@ -23,8 +23,8 @@ Machine Learning
 
 ![ Numpy ](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
 ![ TensorFlow ](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ Pytorch ](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=py-torch)
-![ SK-Learn ](https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikitlearn)
+![ Pytorch ](https://img.shields.io/static/v1?style=for-the-badge&message=PyTorch&color=EE4C2C&logo=PyTorch&logoColor=FFFFFF&label=)
+![ SK-Learn ](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=F7931E&label=)
 
 Operating Systems
 
