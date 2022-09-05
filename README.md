@@ -15,7 +15,7 @@ Main Languages
 Secondary Languages
 
 ![ OCaml ](https://img.shields.io/static/v1?style=for-the-badge&message=OCaml&color=EC6813&logo=OCaml&logoColor=FFFFFF&label=)
-![ C ](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=A8B9CC&label=)
+![ C ](https://img.shields.io/static/v1?style=for-the-badge&message=C&color=222222&logo=C&logoColor=white&label=)
 ![ Java ](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![ SQL ](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 
