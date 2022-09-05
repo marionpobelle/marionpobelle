@@ -8,8 +8,8 @@ My name is Marion Pobelle and I'm an aspiring game developer.
 
 Main Languages
 
-![ Python ](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=3776AB)
-![ C++ ](https://img.shields.io/badge/C++-CC0000?style=for-the-badge&logo=C++)
+![ Python ](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![ C++ ](https://img.shields.io/badge/C++-CC0000?style=for-the-badge&logo=c++)
 ![ C# ](https://img.shields.io/badge/CSharp-00599C?style=for-the-badge&logo=Tesla)
 
 Secondary Languages
