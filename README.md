@@ -7,7 +7,7 @@ My name is Marion Pobelle and I'm an aspiring game developer.
 ### LANGUAGES AND TOOLS
 
 Main Languages
-![ alt text ](https://img.shields.io/badge/Tesla-tesss-CC0000?style=for-the-badge)
+![ alt text ](https://img.shields.io/badge/tesss-CC0000?style=for-the-badge&logo=Tesla)
 
 
 
