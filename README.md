@@ -4,7 +4,7 @@ My name is Marion Pobelle and I'm an aspiring game developer.
 - ⭐ I'm passionate about video games and Machine Learning !
 - ✨ My favorite languages are C++, C# and Python.
 
-### LANGUAGES AND TOOLS
+### SKILLS
 
 Main Languages
 
@@ -36,7 +36,10 @@ Tools
 ![ VSCode ](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![ LaTeX ](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex)
 
+### CHALLENGES
 
+Artificial intelligence :
+- [Aerial Image Recognition](https://codalab.lisn.upsaclay.fr/competitions/573)
 
 
 ### STATS
