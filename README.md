@@ -44,7 +44,6 @@ Artificial intelligence :
 
 ### STATS
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=marionpobelle&layout=compact)
 
 
 ### CURRENT WORK
