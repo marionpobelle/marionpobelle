@@ -45,7 +45,7 @@ Artificial intelligence :
 ### STATS
 
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=marionpobelle&layout=compact)
+
 
 ### CURRENT WORK
 I’m currently working on Space Meow, a TOP/DOWN shooter developed with Unity.
