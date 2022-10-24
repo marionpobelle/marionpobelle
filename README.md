@@ -50,8 +50,8 @@ Note: Top languages is only a metric of the languages my public code consists of
 
 
 ### CURRENT WORK
-I’m currently working on Space Meow, a TOP/DOWN shooter developed with Unity.
-- 🌱 I’m learning C# as it is the first time I use Unity.
+My TOP/DOWN shooter Space Meow is on hold as I am working on a new project, Trashpanda Likes Flowers.
+- 🌱 I’m learning Procedural Generation and Shaders on Unity.
 
 ### CONTACT ME
 
