@@ -50,8 +50,7 @@ Note: Top languages is only a metric of the languages my public code consists of
 
 
 ### CURRENT WORK AND FUTURE PROJECTS
-My TOP/DOWN shooter Space Meow is on hold as I am working on a new project, Trashpanda Likes Flowers.
-- 🌱 I am currently applying for the programmation Master of the ENJMIN.
+My TOP/DOWN shooter Space Meow is on hold as I am applying for the ENJMIN programmation Master.
 - 🌱 I wish to develop an instance of a dungeon from Pokemon Mystery Dungeon as it is my favorite game.
 - 🌱 I'd like to take on an electronic project as I've been highly interested by that domain.
 
