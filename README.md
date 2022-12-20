@@ -1,7 +1,7 @@
 ### ABOUT ME
 
 My name is Marion Pobelle and I'm an aspiring game developer.
-- ⭐ I'm passionate about video games and Machine Learning !
+- ⭐ I'm passionate about video games and Machine Learning ! I've also been dipping into electronics.
 - ✨ My favorite languages are C++, C# and Python.
 
 ### SKILLS
