@@ -39,7 +39,8 @@ Tools
 ### CHALLENGES
 
 Artificial intelligence :
-- [Aerial Image Recognition](https://codalab.lisn.upsaclay.fr/competitions/573)
+- I participated in the [Aerial Image Recognition](https://codalab.lisn.upsaclay.fr/competitions/573) challenge.
+- I am a founder of the [Pachamama](https://codalab.lisn.upsaclay.fr/competitions/1447) challenge.
 
 
 ### STATS
