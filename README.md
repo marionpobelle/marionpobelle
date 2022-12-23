@@ -57,7 +57,7 @@ My TOP/DOWN shooter Space Meow is on hold as I am applying for the ENJMIN progra
 
 ### CV
 
-[Resume](https://github.com/marionpobelle/marionpobelle/blob/main/CV_Marion_Pobelle_FR.pdf) (FR).
+[Resume](https://github.com/marionpobelle/marionpobelle/blob/main/CV_MPobelle_FR.pdf) (FR).
 
 ### CONTACT ME
 
