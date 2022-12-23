@@ -55,6 +55,10 @@ My TOP/DOWN shooter Space Meow is on hold as I am applying for the ENJMIN progra
 - 🌱 I wish to develop an instance of a dungeon from Pokemon Mystery Dungeon as it is my favorite game.
 - 🌱 I'd like to take on an electronic project as I've been highly interested by that domain.
 
+### CV
+
+[Resume](https://github.com/marionpobelle/marionpobelle/blob/main/CV_MPobelle_FR.pdf) (FR).
+
 ### CONTACT ME
 
 ![ Linkedin ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
