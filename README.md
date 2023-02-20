@@ -42,6 +42,10 @@ Artificial intelligence :
 - I participated in the [Aerial Image Recognition](https://codalab.lisn.upsaclay.fr/competitions/573) challenge.
 - I am a founder of the [Pachamama](https://codalab.lisn.upsaclay.fr/competitions/1447) challenge.
 
+### GAME JAMS
+
+- I was the developer of my team for the HedgeJam #4, for which we submitted a game named [Crazy Smoothie Maker](https://maerys.itch.io/crazy-smoothie-maker).
+
 
 ### STATS
 
