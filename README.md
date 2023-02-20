@@ -44,7 +44,7 @@ Artificial intelligence :
 
 ### GAME JAMS
 
-- I was the developer of my team for the HedgeJam #4, for which we submitted a game named [Crazy Smoothie Maker](https://maerys.itch.io/crazy-smoothie-maker).
+- I developed a game for the HedgeJam #4 named [Crazy Smoothie Maker](https://maerys.itch.io/crazy-smoothie-maker).
 
 
 ### STATS
