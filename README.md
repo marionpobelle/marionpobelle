@@ -56,7 +56,7 @@ Note: Top languages is only a metric of the languages my public code consists of
 
 ### CURRENT WORK AND FUTURE PROJECTS
 
-- 🌱 I wish to develop an instance of a dungeon from Pokemon Mystery Dungeon as it is my favorite game.
+- 🌱 I am currently developing an instance of a dungeon from Pokemon Mystery Dungeon as it is my favorite game.
 - 🌱 I'd like to take on an electronic project as I've been highly interested by that domain.
 
 ### CV
