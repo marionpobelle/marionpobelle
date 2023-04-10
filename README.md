@@ -63,9 +63,9 @@ Note: Top languages is only a metric of the languages my public code consists of
 
 [Resume](https://github.com/marionpobelle/marionpobelle/blob/main/CV_MPobelle_FR.pdf) (FR).
 
-### ITCHIO
+### ITCH.IO
 
-[Itchio - Vitamin.exe](https://vitaminexe.itch.io/)
+[Itch.io - Vitamin.exe](https://vitaminexe.itch.io/)
 
 ### CONTACT ME
 
