@@ -62,7 +62,7 @@ Note: Top languages is only a metric of the languages my public code consists of
 
 ### CV
 
-[Resume]([CV_Marion_Pobelle_Safe.pdf](https://github.com/marionpobelle/marionpobelle/files/11338075/CV_Marion_Pobelle_Safe.pdf)) (FR).
+[Resume](https://github.com/marionpobelle/marionpobelle/files/11338075/CV_Marion_Pobelle_Safe.pdf) (FR).
 
 ### ITCH.IO
 
@@ -76,5 +76,5 @@ Link : https://www.linkedin.com/in/marion-pobelle-07639224b/
 
 ![ Mail ](https://img.shields.io/badge/Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-Mail : marion.pobelle@hotmail.com
+Discord : Vitamin#7175
 
