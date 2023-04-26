@@ -62,7 +62,7 @@ Note: Top languages is only a metric of the languages my public code consists of
 
 ### CV
 
-[Resume](https://github.com/marionpobelle/marionpobelle/blob/main/CV_MPobelle_FR.pdf) (FR).
+[Resume]([CV_Marion_Pobelle_Safe.pdf](https://github.com/marionpobelle/marionpobelle/files/11338075/CV_Marion_Pobelle_Safe.pdf)) (FR).
 
 ### ITCH.IO
 
