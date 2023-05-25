@@ -57,8 +57,8 @@ Note: Top languages is only a metric of the languages my public code consists of
 ### CURRENT WORK AND FUTURE PROJECTS
 
 - 🌱 I am currently working on a Pokemon Mystery Dungeon TTRPG system as it is my favorite game.
-- 🌱 Polishing my current projects is on hold, as I am currently applying for Computer Science and Game Development Master's degrees.
-- 🌱 I'd like to take on an electronic project as I've been highly interested by that domain. I'm thinking a plant monitoring system or a fish food dispenser.
+- 🌱 Currently polishing my existing projects.
+- 🌱 I'd like to take on an electronic project as I've been highly interested by that domain. I'm thinking about making a plant monitoring system.
 
 ### CV
 
