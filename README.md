@@ -56,8 +56,7 @@ Note: Top languages is only a metric of the languages my public code consists of
 
 ### CURRENT WORK AND FUTURE PROJECTS
 
-- 🌱 I am currently working on a Pokemon Mystery Dungeon TTRPG system as it is my favorite game.
-- 🌱 Currently polishing my existing projects.
+- 🌱 I would like to improve my Pokemon Mystery Dungeon TTRPG system by adding a playable dungeon instance.
 - 🌱 I'd like to take on an electronic project as I've been highly interested by that domain. I'm thinking about making a plant monitoring system.
 
 ### CV
