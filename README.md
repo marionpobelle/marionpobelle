@@ -3,6 +3,7 @@
 My name is Marion Pobelle and I'm an aspiring game developer.
 - ⭐ I'm passionate about video games and Machine Learning ! I've also been dipping into electronics.
 - ✨ My favorite languages are C++, C# and Python.
+- 🌻 I am currently enrolled in a Master's degree program focusing on Video Game Programming at CNAM-ENJMIN in Angoulême.
 
 ### SKILLS
 
@@ -34,7 +35,15 @@ Operating Systems
 Tools
 
 ![ VSCode ](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![ Visual Studio ]
+(https://camo.githubusercontent.com/fd60f44029161b7287b32f4986ef98f1caa6705355d8df6d14db7de0b50a89ba/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d56697375616c2b53747564696f26636f6c6f723d354332443931266c6f676f3d56697375616c2b53747564696f266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![ LaTeX ](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex)
+
+Engines
+
+![ Unity ](https://camo.githubusercontent.com/8aae5dbd832e95257221aa7d91cfbc12ffe75dbb9be591b5dbb5cf7ef7b73f21/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d556e69747926636f6c6f723d323232323232266c6f676f3d556e697479266c6f676f436f6c6f723d464646464646266c6162656c3d)
+![ Godot Engine ](https://camo.githubusercontent.com/9dcbac88772fbbeb4040b6622cab46a8ebba267a638bf9b0c7a47de146776e92/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d476f646f742b456e67696e6526636f6c6f723d343738434246266c6f676f3d476f646f742b456e67696e65266c6f676f436f6c6f723d464646464646266c6162656c3d)
+![ Unreal Engine](https://camo.githubusercontent.com/956d486e1f3978c70f48bff598d03dae7fd6eab4f3be277364e35245e4e02869/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d556e7265616c2b456e67696e6526636f6c6f723d304531313238266c6f676f3d556e7265616c2b456e67696e65266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
 ### CHALLENGES
 
@@ -62,6 +71,7 @@ Note: Top languages is only a metric of the languages my public code consists of
 ### CV
 
 [Resume](https://github.com/marionpobelle/marionpobelle/files/11338075/CV_Marion_Pobelle_Safe.pdf) (FR).
+[Resume]() (ENG).
 
 ### ITCH.IO
 
