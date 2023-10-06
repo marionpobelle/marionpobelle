@@ -80,7 +80,7 @@ Note: Top languages is only a metric of the languages my public code consists of
 
 ![ Linkedin ](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
-Link : https://www.linkedin.com/in/marion-pobelle-07639224b/
+[Linkedin - Marion Pobelle](https://www.linkedin.com/in/marion-pobelle-07639224b/)
 
 ![ Discord ](https://camo.githubusercontent.com/596357d8b52257c282f713b78daa05587ee258c2822b1738be87afe6bcce92da/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d446973636f726426636f6c6f723d353836354632266c6f676f3d446973636f7264266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
