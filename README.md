@@ -35,8 +35,7 @@ Operating Systems
 Tools
 
 ![ VSCode ](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![ Visual Studio ]
-(https://camo.githubusercontent.com/fd60f44029161b7287b32f4986ef98f1caa6705355d8df6d14db7de0b50a89ba/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d56697375616c2b53747564696f26636f6c6f723d354332443931266c6f676f3d56697375616c2b53747564696f266c6f676f436f6c6f723d464646464646266c6162656c3d)
+![ Visual Studio ](https://camo.githubusercontent.com/fd60f44029161b7287b32f4986ef98f1caa6705355d8df6d14db7de0b50a89ba/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d56697375616c2b53747564696f26636f6c6f723d354332443931266c6f676f3d56697375616c2b53747564696f266c6f676f436f6c6f723d464646464646266c6162656c3d)
 ![ LaTeX ](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex)
 
 Engines
@@ -71,7 +70,7 @@ Note: Top languages is only a metric of the languages my public code consists of
 ### CV
 
 [Resume](https://github.com/marionpobelle/marionpobelle/files/11338075/CV_Marion_Pobelle_Safe.pdf) (FR).
-[Resume]() (ENG).
+[Resume](https://github.com/marionpobelle/marionpobelle/blob/main/Resume_Marion_Pobelle_English.pdf) (ENG).
 
 ### ITCH.IO
 
