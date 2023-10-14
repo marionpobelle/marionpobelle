@@ -1,3 +1,5 @@
+![Sans titre 1](https://github.com/marionpobelle/marionpobelle/assets/112869026/30edfb38-b794-4fb2-a718-d560bb4fb1b7)
+
 ### ABOUT ME
 
 My name is Marion Pobelle and I'm an aspiring game developer.
