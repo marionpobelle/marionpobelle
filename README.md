@@ -26,7 +26,7 @@ Build barricades with furniture, bark at the visitors or knock them down. Everyt
 <p align="center">
   <img src="https://img.itch.zone/aW1nLzE2NTIyMDkzLnBuZw==/original/aEfK2p.png" />
 </p>
-You can find it Itch.io : [Puppy Guards](https://vitaminexe.itch.io/puppy-guards).
+You can find the game as well as a trailer for it on Itch.io : [Puppy Guards](https://vitaminexe.itch.io/puppy-guards).
 
 ## CHALLENGES
 
