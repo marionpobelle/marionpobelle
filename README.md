@@ -37,6 +37,23 @@ It was realized by a team of 6 people in 3 months as a part of our Master's degr
   
 You can find the game as well as a trailer for it on Itch.io : [Puppy Guards](https://vitaminexe.itch.io/puppy-guards).
 
+### CoStellation
+Take a little break from your hectic day to gaze at the stars !
+
+CoStellation is the result of a 3 and a half day workshop whose objective was to create an interactive experience whose inputs would be basic (keyboard, mouse, joystick) but whose outputs would not be limited to a computer screen. I was made by a team of 9 people, using Unity as a part of our Master's degree curriculum at CNAM-ENJMIN.
+
+CoStellation was presented during the 2024 edition of the “Les Mycéliades” festival held at the Alpha media-library in Angoulême.
+<p align="center">
+  <img src="https://img.itch.zone/aW1nLzEzNjM3MjA4LnBuZw==/original/u1WgZv.png" />
+</p>
+
+**Development :**
+- Unity - Gameplay & Editor programming.
+- A 4-day workshop on alternative output.
+- Presented during the 2024 edition of the “Les Mycéliades” festival held at the Alpha media-library in Angoulême.
+  
+You can find the game as well as a trailer for it on Itch.io : [CoStellation](https://vitaminexe.itch.io/co-stellation).
+
 ## CHALLENGES
 
 Artificial Intelligence :
