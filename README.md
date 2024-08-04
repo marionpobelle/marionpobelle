@@ -30,6 +30,7 @@ Note: Top languages is only a metric of the languages my public code consists of
 
 
 # CURRENT WORK AND FUTURE PROJECTS
+I am currently working with the National Museum of Natural History for the summer, as part of my Master’s program. I am task with prototyping some game ideas for them.
 
 - ⭐ An interactable desktop pet - C++
 - ⭐ A virtual pet for mobile - Unity
