@@ -1,9 +1,6 @@
 ![Sans titre 1](https://github.com/marionpobelle/marionpobelle/assets/112869026/30edfb38-b794-4fb2-a718-d560bb4fb1b7)
 
 ## ABOUT ME
-
-Student @ CNAM-ENJMIN, Angoulême - Master JMIN - Video Games Software Engineering Major.
-
 Hi, I'm Marion ! Curious, a jack-of-all-trades and enthusiastic, I make it a point of honor to invest myself fully in whatever I undertake. I love Gameplay programming, but I'm also interested in Tool programming. I'm looking for opportunities that will enable me to develop my video game programming skills, but also to experiment with the development of other interactive applications.
 
 I love learning new skills and seeing how far I can push them. In my spare time, I enjoy longboarding and baking.
