@@ -29,7 +29,7 @@ Artificial intelligence :
 Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 
-#CURRENT WORK AND FUTURE PROJECTS
+# CURRENT WORK AND FUTURE PROJECTS
 
 - ⭐ An interactable desktop pet - C++
 - ⭐ A virtual pet for mobile - Unity
