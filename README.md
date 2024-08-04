@@ -2,17 +2,29 @@
 
 # ABOUT ME
 
-I'm Marion - Student @ CNAM-ENJMIN, Angoulême - Master JMIN, majoring in Video Games Software Engineering !
+Student @ CNAM-ENJMIN, Angoulême - Master JMIN - Video Games Software Engineering Major.
 
-Curious, a jack-of-all-trades and enthusiastic, I make it a point of honor to invest myself fully in whatever I undertake. I love Gameplay programming, but I'm also interested in Tool programming. I'm looking for opportunities that will enable me to develop my video game programming skills, but also to experiment with the development of other interactive applications.
+Hi, I'm Marion ! Curious, a jack-of-all-trades and enthusiastic, I make it a point of honor to invest myself fully in whatever I undertake. I love Gameplay programming, but I'm also interested in Tool programming. I'm looking for opportunities that will enable me to develop my video game programming skills, but also to experiment with the development of other interactive applications.
 
 I love learning new skills and seeing how far I can push them. In my spare time, I enjoy longboarding and baking.
 
-All of my main projects (if not private)
+❗️All of my main projects that are public are pinned.
+❗️All projects should have a README file attached for more information.
 
 # SKILLS
-
-
+## Engine & Programming
+- Unity 2D/3D (C#, HLSL, ShaderGraph)
+- Unreal Engine 5 (C++, Blueprint)
+- Godot 4 (C#, GDScript)
+- C++, SFML, Visual (OpenGL/GLSL), Audio (OpenAL)
+- HTML
+## Technical
+- Ability  to write technical documentation and  adapt to naming conventions.
+- Knowledge of SOLID programming principles for high-performance, maintainable, scalable, reusable and testable code.
+- Good knowledge of mathematical concepts (linear algebra, geometry, trigonometry) and mechanical physics.
+- UML diagrams (structural : class diagrams & behavioral : sequence diagrams).
+- Profiling & Debugging (in-engine or using a debugger).
+- Version management (Git).
 
 # CHALLENGES
 
