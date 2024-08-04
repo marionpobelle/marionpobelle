@@ -20,6 +20,43 @@ I am currently working with the french National Museum of Natural History for th
 - ⭐ A plant monitoring system - Arduino.
 
 ## MAIN PROJECTS
+<table>
+<tr>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+EXAMPLE TEXT
+</small>
+</p>
+</th>
+<th align="center">
+<img width="441" height="1">
+<p> 
+<small>
+EXAMPLE TEXT
+</small>
+</p>
+</th>
+</tr>
+<tr>
+<td>
+ ![Affiche](https://github.com/user-attachments/assets/0891b05b-22e9-4c7a-8187-8a93b5d25db4)
+</td>
+<td>
+Puppy Guards is a 2 - 4 players cooperative couch game in which players take on the role of museum watchmen in charge of protecting the art pieces from at best clumsy, at worst malicious visitors !\
+Build barricades with furniture, bark at the visitors or knock them down. Everything is worth it to save the relics from the disaster !
+</td>
+</tr>
+<tr>
+<td align="center">
+Column 1
+</td>
+<td align="center">
+Column 2
+</td>
+</tr>
+</table>
 
 ### Puppy Guards
 Puppy Guards is a 2 - 4 players cooperative couch game in which players take on the role of museum watchmen in charge of protecting the art pieces from at best clumsy, at worst malicious visitors !\
