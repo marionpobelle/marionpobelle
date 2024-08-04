@@ -20,17 +20,17 @@ I am currently working with the french National Museum of Natural History for th
 - ⭐ A virtual pet for mobile - Unity.
 - ⭐ A plant monitoring system - Arduino.
 
-# CHALLENGES
+## CHALLENGES
 
 Artificial Intelligence :
 - ⭐ I participated in the [Aerial Image Recognition](https://codalab.lisn.upsaclay.fr/competitions/573) challenge.
 - ⭐ I am a founder of the [Pachamama](https://codalab.lisn.upsaclay.fr/competitions/1447) challenge.
 
-# GAME JAMS
+## GAME JAMS
 
 - ⭐ HedgeJam #4 submission : [Crazy Smoothie Maker](https://maerys.itch.io/crazy-smoothie-maker).
 
-- # CV
+# CV
 
 [Resume](CV_Marion_Pobelle_SAFE.pdf) (FR).
 
