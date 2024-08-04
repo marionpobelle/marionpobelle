@@ -8,7 +8,7 @@ Hi, I'm Marion ! Curious, a jack-of-all-trades and enthusiastic, I make it a poi
 
 I love learning new skills and seeing how far I can push them. In my spare time, I enjoy longboarding and baking.
 
-❗️All of my main projects that are public are pinned. \n
+❗️All of my main projects that are public are pinned.\
 ❗️All projects should have a README file attached for more information.
 
 # SKILLS
