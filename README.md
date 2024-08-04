@@ -24,6 +24,9 @@ I am currently working with the french National Museum of Natural History for th
 Puppy Guards is a 2 - 4 players cooperative couch game in which players take on the role of museum watchmen in charge of protecting the art pieces from at best clumsy, at worst malicious visitors !
 
 Build barricades with furniture, bark at the visitors or knock them down. Everything is worth it to save the relics from the disaster !
+
+Puppy Guards was made using Unity.\
+It was realized by a team of 6 people in 3 months as a part of our Master's degree curriculum at CNAM-ENJMIN.
 <p align="center">
   <img src="https://img.itch.zone/aW1nLzE2NTIyMDkzLnBuZw==/original/aEfK2p.png" />
 </p>
