@@ -26,6 +26,17 @@ Build barricades with furniture, bark at the visitors or knock them down. Everyt
 
 You can find it Itch.io : [Puppy Guards](https://vitaminexe.itch.io/puppy-guards).
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
 ## CHALLENGES
 
 Artificial Intelligence :
