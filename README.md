@@ -1,6 +1,6 @@
 ![Sans titre 1](https://github.com/marionpobelle/marionpobelle/assets/112869026/30edfb38-b794-4fb2-a718-d560bb4fb1b7)
 
-# ABOUT ME
+## ABOUT ME
 
 Student @ CNAM-ENJMIN, Angoulême - Master JMIN - Video Games Software Engineering Major.
 
@@ -11,7 +11,7 @@ I love learning new skills and seeing how far I can push them. In my spare time,
 ❗️All of my main projects that are public are pinned.\
 ❗️All projects should have a README file attached for more information.
 
-# CURRENT WORK & FUTURE PROJECTS
+## CURRENT WORK & FUTURE PROJECTS
 
 I am currently working with the french National Museum of Natural History for the summer, as part of my Master’s program. I am task with prototyping some game ideas for them.
 
@@ -30,19 +30,19 @@ Artificial Intelligence :
 
 - ⭐ HedgeJam #4 submission : [Crazy Smoothie Maker](https://maerys.itch.io/crazy-smoothie-maker).
 
-# CV
+## CV
 
 [Resume](CV_Marion_Pobelle_SAFE.pdf) (FR).
 
 [Resume](Resume_Marion_Pobelle_SAFE.pdf) (ENG).
 
-# LINKS
+## LINKS
 
 [Itch.io - Vitamin.exe](https://vitaminexe.itch.io/)
 
 [Linkedin - Marion Pobelle](https://www.linkedin.com/in/marion-pobelle-07639224b/)
 
-# STATS
+## STATS
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=marionpobelle&layout=compact)
 
