@@ -11,21 +11,26 @@ I love learning new skills and seeing how far I can push them. In my spare time,
 ❗️All of my main projects that are public are pinned.\
 ❗️All projects should have a README file attached for more information.
 
-# SKILLS
+# CURRENT WORK AND FUTURE PROJECTS
 
-## Engine & Programming
-- Unity 2D/3D (C#, HLSL, ShaderGraph).
-- Unreal Engine 5 (C++, Blueprint).
-- Godot 4 (C#, GDScript).
-- C++, SFML, Visual (OpenGL/GLSL), Audio (OpenAL).
-- HTML, CSS.
-## Technical
-- Ability  to write technical documentation and  adapt to naming conventions.
-- Knowledge of SOLID programming principles for high-performance, maintainable, scalable, reusable and testable code.
-- Good knowledge of mathematical concepts (linear algebra, geometry, trigonometry) and mechanical physics.
-- UML diagrams (structural : class diagrams & behavioral : sequence diagrams).
-- Profiling & Debugging (in-engine or using a debugger).
-- Version management (Git).
+I am currently working with the french National Museum of Natural History for the summer, as part of my Master’s program. I am task with prototyping some game ideas for them.
+
+- ⭐ An online multiplayer mini-game - Unreal Engine.
+- ⭐ An interactable desktop pet - C++.
+- ⭐ A virtual pet for mobile - Unity.
+- ⭐ A plant monitoring system - Arduino.
+
+# CV
+
+[Resume](CV_Marion_Pobelle_SAFE.pdf) (FR).
+
+[Resume](Resume_Marion_Pobelle_SAFE.pdf) (ENG).
+
+# LINKS
+
+[Itch.io - Vitamin.exe](https://vitaminexe.itch.io/)
+
+[Linkedin - Marion Pobelle](https://www.linkedin.com/in/marion-pobelle-07639224b/)
 
 # CHALLENGES
 
@@ -42,26 +47,6 @@ Artificial Intelligence :
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=marionpobelle&layout=compact)
 
 Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-# CURRENT WORK AND FUTURE PROJECTS
-
-I am currently working with the french National Museum of Natural History for the summer, as part of my Master’s program. I am task with prototyping some game ideas for them.
-
-- ⭐ An interactable desktop pet - C++.
-- ⭐ A virtual pet for mobile - Unity.
-- ⭐ A plant monitoring system - Arduino.
-
-# CV
-
-[Resume](CV_Marion_Pobelle_SAFE.pdf) (FR).
-
-[Resume](Resume_Marion_Pobelle_SAFE.pdf) (ENG).
-
-# LINKS
-
-[Itch.io - Vitamin.exe](https://vitaminexe.itch.io/)
-
-[Linkedin - Marion Pobelle](https://www.linkedin.com/in/marion-pobelle-07639224b/)
 
 
 
