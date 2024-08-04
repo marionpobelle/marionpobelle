@@ -11,7 +11,7 @@ I love learning new skills and seeing how far I can push them. In my spare time,
 ❗️All of my main projects that are public are pinned.\
 ❗️All projects should have a README file attached for more information.
 
-# CURRENT WORK AND FUTURE PROJECTS
+# CURRENT WORK & FUTURE PROJECTS
 
 I am currently working with the french National Museum of Natural History for the summer, as part of my Master’s program. I am task with prototyping some game ideas for them.
 
