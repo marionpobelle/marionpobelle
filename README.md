@@ -8,7 +8,6 @@ Hi, I'm Marion ! Curious, a jack-of-all-trades and enthusiastic, I make it a poi
 
 I love learning new skills and seeing how far I can push them. In my spare time, I enjoy longboarding and baking.
 
-❗️All of my main projects that are public are pinned.\
 ❗️All projects should have a README file attached for more information.
 
 ## CURRENT WORK & FUTURE PROJECTS
@@ -19,6 +18,43 @@ I am currently working with the french National Museum of Natural History for th
 - ⭐ An interactable desktop pet - C++.
 - ⭐ A virtual pet for mobile - Unity.
 - ⭐ A plant monitoring system - Arduino.
+
+## MAIN PROJECTS
+
+<table>
+<tr>
+<th> Good </th>
+<th> Bad </th>
+</tr>
+<tr>
+<td>
+
+```c++
+int foo() {
+    int result = 4;
+    return result;
+}
+```
+
+</td>
+<td>
+
+```c++
+int foo() { 
+    int x = 4;
+    return x;
+}
+```
+
+</td>
+</tr>
+</table>
+
+### Puppy Guards
+Puppy Guards is a 2 - 4 players cooperative couch game in which players take on the role of museum watchmen in charge of protecting the art pieces from at best clumsy, at worst malicious visitors !\
+Build barricades with furniture, bark at the visitors or knock them down. Everything is worth it to save the relics from the disaster !
+
+You can find it Itch.io : [Puppy Guards](https://vitaminexe.itch.io/puppy-guards).
 
 ## CHALLENGES
 
