@@ -14,11 +14,11 @@ I love learning new skills and seeing how far I can push them. In my spare time,
 # SKILLS
 
 ## Engine & Programming
-- Unity 2D/3D (C#, HLSL, ShaderGraph)
-- Unreal Engine 5 (C++, Blueprint)
-- Godot 4 (C#, GDScript)
-- C++, SFML, Visual (OpenGL/GLSL), Audio (OpenAL)
-- HTML
+- Unity 2D/3D (C#, HLSL, ShaderGraph).
+- Unreal Engine 5 (C++, Blueprint).
+- Godot 4 (C#, GDScript).
+- C++, SFML, Visual (OpenGL/GLSL), Audio (OpenAL).
+- HTML, CSS.
 ## Technical
 - Ability  to write technical documentation and  adapt to naming conventions.
 - Knowledge of SOLID programming principles for high-performance, maintainable, scalable, reusable and testable code.
