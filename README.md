@@ -8,6 +8,8 @@ Curious, a jack-of-all-trades and enthusiastic, I make it a point of honor to in
 
 I love learning new skills and seeing how far I can push them. In my spare time, I enjoy longboarding and baking.
 
+All of my main projects (if not private)
+
 # SKILLS
 
 
@@ -28,9 +30,9 @@ Artificial intelligence :
 
 Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
-
 # CURRENT WORK AND FUTURE PROJECTS
-I am currently working with the National Museum of Natural History for the summer, as part of my Master’s program. I am task with prototyping some game ideas for them.
+
+I am currently working with the french National Museum of Natural History for the summer, as part of my Master’s program. I am task with prototyping some game ideas for them.
 
 - ⭐ An interactable desktop pet - C++
 - ⭐ A virtual pet for mobile - Unity
