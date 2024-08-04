@@ -12,6 +12,7 @@ I love learning new skills and seeing how far I can push them. In my spare time,
 ❗️All projects should have a README file attached for more information.
 
 # SKILLS
+
 ## Engine & Programming
 - Unity 2D/3D (C#, HLSL, ShaderGraph)
 - Unreal Engine 5 (C++, Blueprint)
@@ -28,7 +29,7 @@ I love learning new skills and seeing how far I can push them. In my spare time,
 
 # CHALLENGES
 
-Artificial intelligence :
+Artificial Intelligence :
 - ⭐ I participated in the [Aerial Image Recognition](https://codalab.lisn.upsaclay.fr/competitions/573) challenge.
 - ⭐ I am a founder of the [Pachamama](https://codalab.lisn.upsaclay.fr/competitions/1447) challenge.
 
