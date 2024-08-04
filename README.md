@@ -21,8 +21,7 @@ I am currently working with the french National Museum of Natural History for th
 
 ## MAIN PROJECTS
 ### Puppy Guards
-![Affiche](https://github.com/user-attachments/assets/79a7b413-bb65-44a5-97a6-cc96021cd3bf)
-
+![aEfK2p](https://github.com/user-attachments/assets/bc1bd3c6-ccd9-49fb-bfd6-82dcf3f75336)
 Puppy Guards is a 2 - 4 players cooperative couch game in which players take on the role of museum watchmen in charge of protecting the art pieces from at best clumsy, at worst malicious visitors !\
 Build barricades with furniture, bark at the visitors or knock them down. Everything is worth it to save the relics from the disaster !
 
