@@ -7,9 +7,12 @@ I love learning new skills and seeing how far I can push them. In my spare time,
 
 ❗️All projects on my Github should have a README file attached for more information.
 
-## CURRENT WORK & FUTURE PROJECTS
+## CURRENT WORK
 
-I am currently working with the french National Museum of Natural History for the summer, as part of my Master’s program. I am task with prototyping some game ideas for them.
+Ar Mare is a narrative focused horror ans investigation game, following the story of a lighthouse keeper whose daily life is disrupted by mysterious and strange events.
+As a team of 10 people coming from various career branches (UX, artists, game design, management, programming and sound design), we have 4 months starting October 2024 to produce a polished DEMO for Ar Mare. We are working on Unreal Engine 5, using both Blueprints and C++.
+
+## FUTURE PROJECTS
 
 - ⭐ An interactable desktop pet - C++.
 - ⭐ A virtual pet for mobile - Unity.
