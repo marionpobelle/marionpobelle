@@ -9,7 +9,7 @@ I love learning new skills and seeing how far I can push them. In my spare time,
 
 ## CURRENT WORK
 
-Ar Mare is a narrative focused horror and investigation game, following the story of a lighthouse keeper whose daily life is disrupted by mysterious and strange events.
+Ar Mare is a narrative focused horror and investigation game, following the story of a lone lighthouse keeper whose dull daily life suddendly gets disrupted by mysterious and strange events.
 As a team of 10 people coming from various career branches (UX, artists, game design, management, programming and sound design), we have 4 months starting October 2024 to produce a polished DEMO for Ar Mare. We are working on Unreal Engine 5, using both Blueprints and C++.
 
 ## FUTURE PROJECTS
