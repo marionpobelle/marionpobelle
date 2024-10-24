@@ -40,7 +40,7 @@ You can find the game as well as a trailer for it on Itch.io : [Puppy Guards](ht
 ### CoStellation
 Take a little break from your hectic day to gaze at the stars !
 
-CoStellation is the result of a 3 and a half day workshop whose objective was to create an interactive experience whose inputs would be basic (keyboard, mouse, joystick) but whose outputs would not be limited to a computer screen. I was made by a team of 9 people, using Unity as a part of our Master's degree curriculum at CNAM-ENJMIN.
+CoStellation is the result of a 3 and a half day workshop whose objective was to create an interactive experience with basic inputs (keyboard, mouse, joystick) but with outputs not limited to a computer screen. It was made by a team of 9 people, using Unity as a part of our Master's degree curriculum at CNAM-ENJMIN.
 
 CoStellation was presented during the 2024 edition of the “Les Mycéliades” festival held at the Alpha media-library in Angoulême.
 <p align="center">
