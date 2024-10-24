@@ -49,7 +49,7 @@ CoStellation was presented during the 2024 edition of the “Les Mycéliades” 
 
 **Development :**
 - Unity - Gameplay & Editor programming.
-- A 4-day workshop on alternative output.
+- A 3 and a half day workshop on alternative output.
 - Presented during the 2024 edition of the “Les Mycéliades” festival held at the Alpha media-library in Angoulême.
   
 You can find the game as well as a trailer for it on Itch.io : [CoStellation](https://vitaminexe.itch.io/co-stellation).
