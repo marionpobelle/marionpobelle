@@ -9,17 +9,19 @@ I love learning new skills and seeing how far I can push them. In my spare time,
 
 ## CURRENT WORK
 
+An interactable desktop pet that moves around your screen and plays with your mouse cursor !
+
+## FUTURE PROJECTS
+
+- ⭐ Learning CSS & HTML in order to make a website for my portfolio.
+- ⭐ A mobile multiplayer app to be able to study with your friends - Unity.
+
+## MAIN PROJECTS
+### Ar Mare
 Ar Mare is a narrative focused horror and investigation game, following the story of a lone lighthouse keeper whose dull daily life suddenly gets disrupted by mysterious and strange events.
 
 As a cross-disciplinary team of 10 people (UX, artists, game design, management, programming and sound design), we have 4 months starting October 2024 to produce a polished DEMO for Ar Mare. We are working with Unreal Engine 5, using both Blueprints and C++.
 
-## FUTURE PROJECTS
-
-- ⭐ An interactable desktop pet - C++.
-- ⭐ A virtual pet for mobile - Unity.
-- ⭐ A plant monitoring system - Arduino.
-
-## MAIN PROJECTS
 ### Puppy Guards
 Puppy Guards is a 2 - 4 players cooperative couch game in which players take on the role of museum watchmen in charge of protecting the art pieces from at best clumsy, at worst malicious visitors !
 Build barricades with furniture, bark at the visitors or knock them down. Everything is worth it to save the relics from the disaster !
