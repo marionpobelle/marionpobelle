@@ -22,6 +22,7 @@ Ar Mare is a narrative focused horror and investigation game, following the stor
 
 As a cross-disciplinary team of 10 people (UX, artists, game design, management, programming and sound design), we have 4 months starting October 2024 to produce a polished DEMO for Ar Mare. We are working with Unreal Engine 5, using both Blueprints and C++.
 
+You can find the game as well as a trailer for it on Itch.io : [Ar Mare](https://corail.itch.io/ar-mare).
 ### Puppy Guards
 Puppy Guards is a 2 - 4 players cooperative couch game in which players take on the role of museum watchmen in charge of protecting the art pieces from at best clumsy, at worst malicious visitors !
 Build barricades with furniture, bark at the visitors or knock them down. Everything is worth it to save the relics from the disaster !
