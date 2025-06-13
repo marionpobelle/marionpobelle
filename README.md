@@ -9,11 +9,10 @@ I love learning new skills and seeing how far I can push them. In my spare time,
 
 ## CURRENT WORK
 
-An interactable desktop pet that moves around your screen and plays with your mouse cursor !
+Learning CSS & HTML in order to make a website for my portfolio.
 
 ## FUTURE PROJECTS
 
-- ⭐ Learning CSS & HTML in order to make a website for my portfolio.
 - ⭐ A mobile multiplayer app to be able to study with your friends - Unity.
 
 ## MAIN PROJECTS
