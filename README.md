@@ -11,7 +11,7 @@ Outside of game development, I love baking and cooking, tea, cats, books and com
 
 ## CURRENT WORK
 
-A mini desktop journaling app.
+- ⭐ A mini desktop journaling app.
 
 ## FUTURE PROJECTS
 
