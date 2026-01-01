@@ -9,17 +9,6 @@ Outside of game development, I love baking and cooking, tea, cats, books and com
 
 ❗️All projects on my Github should have a README file attached for more information.
 
-## CURRENT WORK
-
-- ⭐ A mini desktop journaling app.
-
-## FUTURE PROJECTS
-
-- ⭐ An idle multiplayer desktop app to be able to study with your friends - Unity.
-- ⭐ A desktop interactable weekly planner/whiteboard - Unity.
-- ⭐ A Picross mobile game where you own a cafe - Unity.
-- ⭐ Cute customizable sticky notes - ?
-
 ## CHALLENGES
 
 Artificial Intelligence:
