@@ -34,13 +34,5 @@ Artificial Intelligence:
 
 [Linkedin - Marion Pobelle](https://www.linkedin.com/in/marion-pobelle-07639224b/)
 
-## STATS
-
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=marionpobelle&layout=compact)
-
-Note: Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
-Same goes for GitHub contributions as private repositories are not taken into account.
-
 
 
